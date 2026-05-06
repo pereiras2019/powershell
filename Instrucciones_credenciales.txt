@@ -1,0 +1,5 @@
+# Tohub
+aws configure --profile ToHub
+
+# Para tu cuenta de trabajo o cliente
+aws configure --profile Corelab
